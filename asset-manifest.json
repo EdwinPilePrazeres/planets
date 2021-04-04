@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/planets/static/css/main.9893eb26.chunk.css",
-    "main.js": "/planets/static/js/main.a8c5168c.chunk.js",
-    "main.js.map": "/planets/static/js/main.a8c5168c.chunk.js.map",
+    "main.css": "/planets/static/css/main.a7cbfce3.chunk.css",
+    "main.js": "/planets/static/js/main.7e0f8f02.chunk.js",
+    "main.js.map": "/planets/static/js/main.7e0f8f02.chunk.js.map",
     "runtime-main.js": "/planets/static/js/runtime-main.50eb1545.js",
     "runtime-main.js.map": "/planets/static/js/runtime-main.50eb1545.js.map",
-    "static/js/2.c33c0ec6.chunk.js": "/planets/static/js/2.c33c0ec6.chunk.js",
-    "static/js/2.c33c0ec6.chunk.js.map": "/planets/static/js/2.c33c0ec6.chunk.js.map",
+    "static/css/2.43b28702.chunk.css": "/planets/static/css/2.43b28702.chunk.css",
+    "static/js/2.541add4d.chunk.js": "/planets/static/js/2.541add4d.chunk.js",
+    "static/js/2.541add4d.chunk.js.map": "/planets/static/js/2.541add4d.chunk.js.map",
     "index.html": "/planets/index.html",
-    "static/css/main.9893eb26.chunk.css.map": "/planets/static/css/main.9893eb26.chunk.css.map",
-    "static/js/2.c33c0ec6.chunk.js.LICENSE.txt": "/planets/static/js/2.c33c0ec6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/planets/static/media/black.85f8ef36.jpg"
+    "static/css/2.43b28702.chunk.css.map": "/planets/static/css/2.43b28702.chunk.css.map",
+    "static/css/main.a7cbfce3.chunk.css.map": "/planets/static/css/main.a7cbfce3.chunk.css.map",
+    "static/js/2.541add4d.chunk.js.LICENSE.txt": "/planets/static/js/2.541add4d.chunk.js.LICENSE.txt",
+    "static/media/earth.jpg": "/planets/static/media/earth.922f8de4.jpg",
+    "static/media/jupiter.jpg": "/planets/static/media/jupiter.963ca3c4.jpg",
+    "static/media/logo-sistema-solar.png": "/planets/static/media/logo-sistema-solar.e3f30804.png",
+    "static/media/mars.jpg": "/planets/static/media/mars.02213b32.jpg",
+    "static/media/mercury.jpg": "/planets/static/media/mercury.9e2db6ec.jpg",
+    "static/media/mercury_asteroid.png": "/planets/static/media/mercury_asteroid.97a38914.png",
+    "static/media/saturn.jpg": "/planets/static/media/saturn.98841bf0.jpg",
+    "static/media/uranus.jpg": "/planets/static/media/uranus.9bf29c10.jpg",
+    "static/media/venus.jpg": "/planets/static/media/venus.c662a06a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.50eb1545.js",
-    "static/js/2.c33c0ec6.chunk.js",
-    "static/css/main.9893eb26.chunk.css",
-    "static/js/main.a8c5168c.chunk.js"
+    "static/css/2.43b28702.chunk.css",
+    "static/js/2.541add4d.chunk.js",
+    "static/css/main.a7cbfce3.chunk.css",
+    "static/js/main.7e0f8f02.chunk.js"
   ]
 }
